@@ -1,0 +1,10 @@
+body {
+    font-family: 'Baloo 2', cursive;
+    width: 100%;
+}
+
+header {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+}
